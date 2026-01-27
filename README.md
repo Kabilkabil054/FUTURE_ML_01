@@ -25,8 +25,8 @@ To forecast future sales or demand using historical business data and present in
 
 ## Repository Structure
 FUTURE_ML_01/
-│
-├── data/ # Dataset files
-├── notebooks/ # Jupyter notebooks
-├── images/ # Graphs and outputs
+├── data/        # Dataset files
+├── notebooks/   # Jupyter notebooks
+├── images/      # Graphs and outputs
 ├── README.md
+
