@@ -30,3 +30,28 @@ FUTURE_ML_01/
 ├── images/      # Graphs and outputs
 ├── README.md
 
+## Dataset Used
+- Superstore Sales Dataset
+- Historical transaction-level sales data
+- Aggregated to monthly sales for forecasting
+
+## Data Processing Steps
+- Converted Order Date column to datetime format
+- Aggregated sales data on a monthly basis
+- Created time-based features (Month and Year)
+
+## Model Used
+- Linear Regression (Scikit-learn)
+
+## Model Evaluation
+- Evaluation Metric: Mean Absolute Error (MAE)
+- The model captures overall sales trends effectively
+
+## Results & Visualization
+- Monthly sales trend visualization
+- Actual vs Predicted monthly sales comparison plot
+
+## Business Insights
+- Sales exhibit seasonal patterns across different months
+- Forecasting can support inventory and demand planning
+- Businesses can prepare for high-demand periods in advance
